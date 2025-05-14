@@ -52,10 +52,6 @@ NetPractice is a series of 10 progressively challenging networking exercises whe
 - Resolved subnet masking errors
 
 ## How to Use
-1. Clone this repository
-2. Open `index.html` in a web browser
-3. Complete levels 1-10 through the interface
-4. Validate configurations using built-in checker
-5. Export config files after each level
-
-## Repository Structure
+1. Extract the contents of net_practice.1.5.tgz(inside the root directory).
+2. Extract the contents of net_practice.1.5.tgz.
+3. inside the extract folder go to net_practice folder and then type this command (open index.html).
