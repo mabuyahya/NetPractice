@@ -1,7 +1,5 @@
 # NetPractice - 42 Amman Networking Project
 
-![Networking Diagram](https://via.placeholder.com/800x400.png?text=Sample+Network+Diagram)
-
 A project-based learning experience in computer networking fundamentals through practical network configuration challenges.
 
 ## Project Overview
