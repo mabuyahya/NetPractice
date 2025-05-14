@@ -55,6 +55,6 @@ NetPractice is a series of 10 progressively challenging networking exercises whe
 3. inside the extract folder go to net_practice folder and then type this command (open index.html).
 
 ### Examples 
-![Example of does the subject look like](1.png)
-![Example of does the subject look like](2.png)
+![Example of does the subject look like](images/1.png)
+![Example of does the subject look like](images/2.png)
 
