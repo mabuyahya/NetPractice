@@ -53,3 +53,5 @@ NetPractice is a series of 10 progressively challenging networking exercises whe
 1. Extract the contents of net_practice.1.5.tgz(inside the root directory).
 2. Extract the contents of net_practice.1.5.tgz.
 3. inside the extract folder go to net_practice folder and then type this command (open index.html).
+
+### Examples 
