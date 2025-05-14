@@ -1,37 +1,61 @@
-# NetPractice
+# NetPractice - 42 Amman Networking Project
 
-## 📚 Introduction
+![Networking Diagram](https://via.placeholder.com/800x400.png?text=Sample+Network+Diagram)
 
-**NetPractice** is a hands-on project designed to help students discover and understand the fundamentals of networking. This project simulates small-scale networks to teach core concepts like TCP/IP addressing, routing, and troubleshooting.
+A project-based learning experience in computer networking fundamentals through practical network configuration challenges.
 
----
+## Project Overview
+NetPractice is a series of 10 progressively challenging networking exercises where I configured simulated networks to establish proper communication between devices. Each level presented a unique network topology with specific connectivity requirements that needed to be solved through correct IP addressing and network configuration.
 
-## 📖 General Guidelines
+## Key Features
+- 10 levels of increasing complexity
+- Real-world networking scenarios
+- Web-based interface for configuration
+- Immediate feedback system
+- Configuration file export capability
 
-You will work through **10 levels** of increasing complexity, each presenting a broken network you must fix. Understanding how **TCP/IP addressing** and routing work is essential to completing the tasks.
+## What I Learned 🧠
 
-- The networks are **simulated** and available through a **web-based interface**.
-- You’ll need to configure the network devices to ensure connectivity and functionality.
-- Each level has a **goal** explaining what needs to be fixed or achieved.
+### TCP/IP Addressing Fundamentals
+- Mastered IPv4 address structure and classes
+- Practiced subnet mask calculation and CIDR notation
+- Implemented proper gateway configuration
+- Understood network vs host address spaces
 
----
+### Subnetting Techniques
+- Calculated optimal subnet sizes for different network segments
+- Determined valid host ranges within subnets
+- Avoided IP address conflicts through proper allocation
+- Implemented efficient IP space management
 
-## 🛠️ Getting Started
+### Routing Concepts
+- Configured static routes between multiple subnets
+- Established communication across routers
+- Implemented default gateway configurations
+- Understood packet flow between network segments
 
-1. **Download** the `.zip` file provided on the project page.
-2. **Extract** the archive to a folder of your choice.
-3. Open the `index.html` file in your **web browser** to access the NetPractice interface.
+### DHCP Principles
+- Identified appropriate DHCP server placement
+- Configured IP address distribution ranges
+- Set up reservation ranges for specific devices
 
----
+### Network Segmentation
+- Created VLAN-like separated networks
+- Implemented communication between segments
+- Configured intermediate routing devices
+- Optimized network traffic flow
 
-## 🌐 NetPractice Interface
+### Troubleshooting Skills
+- Analyzed connectivity issues through diagnostic logs
+- Debugged IP configuration errors
+- Fixed routing table misconfigurations
+- Resolved subnet masking errors
 
-When you open the training interface:
+## How to Use
+1. Clone this repository
+2. Open `index.html` in a web browser
+3. Complete levels 1-10 through the interface
+4. Validate configurations using built-in checker
+5. Export config files after each level
 
-- You may **enter your login** to start a session, or leave it empty for a test version.
-- A broken network diagram will be shown for each level.
-- Read the objective carefully and configure the network accordingly.
-
-### Buttons Available:
-
-- ✅ **[Chec]()**
+## Repository Structure
